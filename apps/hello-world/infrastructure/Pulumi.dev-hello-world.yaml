@@ -1,0 +1,5 @@
+encryptionsalt: v1:F4CntfBe93s=:v1:OgByI6Cp+YQWak9J:45I4ZR0q3F/MUYz6ErGuapyAwKCnUA==
+config:
+  hello-world:customDomainName: www.example.com
+  hello-world:distPath: /Users/talefronny/Desktop/projects/hello-world/dist/apps/hello-world
+  hello-world:projectName: hello-world

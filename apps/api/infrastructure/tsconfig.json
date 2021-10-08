@@ -1,0 +1,17 @@
+{
+  "extends": "../../../tsconfig.base.json",
+  // "extends": "../tsconfig.app.json",
+  "compilerOptions": {
+    "target": "es2015",
+    // "moduleResolution": "classic",
+    "moduleResolution": "node",
+    "module": "commonjs"
+    // "rootDir": ".",
+    // "@hello-world/api-interfaces": ["libs/api-interfaces/src/index.ts"]
+    // "paths": {
+    //   "@hello-world/api-interfaces": [
+    //     "../../../libs/api-interfaces/src/index.ts"
+    //   ]
+    // }
+  }
+}

@@ -1,0 +1,6 @@
+encryptionsalt: v1:JqAknjbUOCU=:v1:iRa8qSbQd7UnBLNC:Y59bA4yTKx2oAo11x6R9TxiFjvozlQ==
+config:
+  api:distPath: /Users/talefronny/Desktop/projects/hello-world/dist/apps/api
+  api:projectName: api
+  gcp:project: pulumi-tests-328411
+  gcp:region: europe-west2

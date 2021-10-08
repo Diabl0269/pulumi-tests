@@ -1,0 +1,5 @@
+config:
+  demo:customDomainName: www.example.com
+  demo:distPath: /Users/talefronny/Desktop/projects/hello-world/dist/apps/demo
+  demo:projectName: demo
+  gcp:project: pulumi-tests-328411
